@@ -1,8 +1,8 @@
 {
-  "short_name": "Wonderland",
+  "short_name": "$FOHMO",
   "start_url": ".",
   "homepage": "./",
-  "name": "Wonderland",
+  "name": "Floki OHM One",
   "launch_path": "/public/index.html",
   "icons": [
     {
